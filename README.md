@@ -1,2 +1,9 @@
 # Mini-shell
-OS Course - Linux Shell Immitation
+
+Interpretation and implementation of user commands for Linux operating system. 
+
+#### The commands: 
+ * execvp
+ * cd
+ * pipes
+ * redirection
